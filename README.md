@@ -1,7 +1,7 @@
 # XmlGenerator
 Project made for generate java classes from xsd file
 
-# Autor
+# Author
 Oscar Montalvo
 
 # Instructions
