@@ -9,5 +9,5 @@ For generating a java files from a xsd file consider the following:
 - add your xsd file to src/main/xsd
 - modifiy pom.xml in order to change the packageName atttibute.
 
-once you have preconfigured, run in a command line the following: *mvn jaxb2:xjc* or *mvn clean install*
-finally review in the target folder the generated resources
+once you have preconfigured, run in a command line the following: *mvn jaxb2:xjc* or *mvn clean install*. 
+Finally review in the target folder the generated resources
